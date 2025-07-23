@@ -2,7 +2,7 @@
 
 ---
 
-Bem-vindo ao **Super-Arcanoide**, um clone do classico jogo de arcade Arkanoid. Desenvolvido com **Game Maker**, este projeto foi criado como parte de um curso basico de desenvolvimento de jogos.
+Bem-vindo ao **Super-Arcanoide**, um clone do classico jogo de arcade Arkanoid. Desenvolvido com o **Game Maker Studio 2**, este projeto foi criado como parte de um curso basico de desenvolvimento de jogos.
 
 ---
 
@@ -53,6 +53,6 @@ Siga estas instrucoes para configurar e executar o projeto em sua maquina:
 
 ## 🚧 Status do Projeto
 
-Este e um projeto inicial e basico.
+Este é um projeto inicial e básico
 
 ---
